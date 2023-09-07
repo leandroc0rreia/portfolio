@@ -1,0 +1,164 @@
+{   
+    "firstName": "Leandro",
+    "lastName": "Correia",
+    "fullName": "Leandro Correia",
+    "url": "https://leandroc0rreia.com",
+    "username": "leandroc0rreia",
+    "social_media": {
+        "github": {
+            "text": "Github",
+            "url": "https://www.github.com/leandroc0rreia"
+        },
+        "facebook": {
+            "text": "Facebook",
+            "url": "https://www.facebook.com/leandroc0rreia"
+        },
+        "instagram": {
+            "text": "Instagram",
+            "url": "https://www.instagram.com/leandroc0rreia"
+        },
+        "linkedin": {
+            "text": "Linkedin",
+            "url": "https://www.linkedin.com/in/leandroc0rreia"
+        },
+        "email": {
+            "text": "E-mail",
+            "url": "mailto:geral@leandroc0rreia.com"
+        }
+    },
+    "resume_path": "resume.pdf",
+    "profile_pic": "leandrocorreia.png",
+    "logo": "logo.png",
+    "pt": {
+        "navbar": {
+            "homepage": "Home",
+            "about": "Sobre",
+            "projects": "Projetos",
+            "contact": "Contacto"
+        },
+        "home": {
+            "leName": "Le",
+            "androName": "andro",
+            "coName": "Co",
+            "rreiaName": "rreia",
+            "role": "Software Developer"
+        },
+        "about": {
+            "title": "Sobre mim",
+            "text": "Olá o meu nome é Leandro Correia. Sou estudante na Escola Superior de Tecnologia e Gestão de Águeda pertencente à Universidade de Aveiro, de momento estou a finalizar o curso de Tecnologias de Informação. Programar é uma das minhas paixões desde criança e agora o meu objetivo é expandir os meus conhecimentos e fazer parte de grandes projetos.",
+            "text_cv": "Para saber mais informações descarregue o meu currículo em baixo:",
+            "text_cv_btn": "Descarregar",
+            "skills": {
+                "Competências Técnicas": [
+                {
+                    "id": 1,
+                    "title": "HTML/CSS",
+                    "progress": "95%"
+                },
+                {
+                    "id": 2,
+                    "title": "Javascript",
+                    "progress": "85%"
+                },
+                {
+                    "id": 3,
+                    "title": "SQL",
+                    "progress": "90%"
+                },
+                {
+                    "id": 4,
+                    "title": "React",
+                    "progress": "70%"
+                },
+                {
+                    "id": 5,
+                    "title": "Android",
+                    "progress": "75%"
+                },
+                {
+                    "id": 6,
+                    "title": "Java",
+                    "progress": "85%"
+                },
+                {
+                    "id": 7,
+                    "title": "C",
+                    "progress": "75%"
+                },
+                {
+                    "id": 8,
+                    "title": "Bash",
+                    "progress": "65%"
+                }],
+                "Competências Pessoais": [
+                {
+                    "id": 1,
+                    "title": "Organizado",
+                    "progress": "81%"
+                },
+                {
+                    "id": 2,
+                    "title": "Adaptável",
+                    "progress": "90%"
+                },
+                {
+                    "id": 3,
+                    "title": "Criativo",
+                    "progress": "70%"
+                },
+                {
+                    "id": 4,
+                    "title": "Positivo",
+                    "progress": "80%"
+                },
+                {
+                    "id": 5,
+                    "title": "Persistente",
+                    "progress": "87%"
+                },
+                {
+                    "id": 6,
+                    "title": "Pragmático",
+                    "progress": "75%"
+                },
+                {
+                    "id": 7,
+                    "title": "Trabalho em equipa",
+                    "progress": "95%"
+                },
+                {
+                    "id": 8,
+                    "title": "Focado",
+                    "progress": "73%"
+                }
+            ]}
+        },
+        "projects": {
+            "title": "Projetos",
+            "text_lang" : "Linguagens:",
+            "text_stars": "Stars",
+            "text_updated": "Atualizado em ",
+            "text_clone": "Clonar projeto",
+            "text_repo": "Repositório"
+        },
+        "recent_projects": {
+            "title": "Projetos Recentes"
+        },
+        "contact": {
+            "title": "Contacto",
+            "text": "Se tiver alguma questão ou quiser falar comigo, esteja à vontade para contactar-me a qualquer altura.",
+            "text_email": "Email:",
+            "text_email_input": "exemplo@leandroc0rreia.com",
+            "text_message": "Mensagem:",
+            "text_message_input": "Sua mensagem...",
+            "text_send_email": "Enviar mensagem"
+        },
+        "footer": {
+            "text": "by",
+            "open_source_disclaimer": "O projeto é open-source. Esteja à vontade para contribuir ou fazer a sua própria versão."
+        }
+    },
+    "en": {
+
+    }
+}
